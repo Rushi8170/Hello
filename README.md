@@ -1,2 +1,3 @@
 # Hello
-Just another repository
+Hi Humans!!
+Rushikesh here, I like java and Angular.
